@@ -1,1 +1,1 @@
-# cruel-match-em
+#[ModKit Wiki](../../wiki)
